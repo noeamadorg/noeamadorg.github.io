@@ -57,7 +57,7 @@ params:
     favicon: /images/site/inverted.png
   
   # GitHub repo URL of your site
-  gitRepo: https://github.com/noeamador/noeamadorg.github.io
+  gitRepo: https://github.com/noeamadorg/noeamadorg.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
